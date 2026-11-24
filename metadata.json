@@ -1,0 +1,6 @@
+{
+  "name": "My To-Do List",
+  "description": "A responsive To-Do List web application with full Create, Read, Update, and Delete (CRUD) task management and LocalStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
